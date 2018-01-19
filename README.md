@@ -14,7 +14,7 @@ I initially present the current standing table to show the performance of the Bu
 
 Person one:
 
-I think your description are way too long. I would use the point differential as the last page in your story because it's a great, top down, summary statistic telling of how good the team are. I think it will tie up your story very well. All in all I like the story you are telling!
+I think your descriptions are way too long. I would use the point differential as the last page in your story because it's a great, top down, summary statistic telling of how good the team are. I think it will tie up your story very well. All in all I like the story you are telling!
 
 Person two:
 
