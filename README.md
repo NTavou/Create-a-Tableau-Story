@@ -1,6 +1,7 @@
 # Create-a-Tableau-Story
 
 First version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Mil_draft/MIL_v1
+Final version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Milwakee_Bucks_201718/Milwakee_Bucks_20172018
 
 ## Summary
 
@@ -8,7 +9,7 @@ In this tableau story I compared team and players basic regular season statistic
 
 ## Design
 
-I initially present the current standing table to show the performance of the Bucks team so far to give the reader a first look at where the Bucks stands this season. After extensively exploring the dataset I chose to use the green color for the Bucks (which is their main official color) in my visualizations and grey for all other teams to better shown what I am trying to communicate. The decision to compare the Bucks with teams that managed to win their first playoff series in the last decade stems from the fact that Bucks have the longest [NBA playoffs series win droughts](https://en.wikipedia.org/wiki/List_of_NBA_franchise_post-season_droughts) than any other team in the NBA.  I also decided to split the analysis in two main categories: offense and defense team statistics, to make the story flow more naturally for the reader.  When I found a statistic category were the Bucks were way better or worse off than the average of all selected teams, I further included player stats with interactive options to enrich the analysis, after the feedback I received in my initial version of my story. Furtermore, based on the feedback, I used the point differential stat to conclude if the Bucks are on par with the other teams and I also shorten my text boxes descriptions. 
+I initially present the current standing table to show the performance of the Bucks team so far to give the reader a first look at where the Bucks stands this season. After extensively exploring the dataset I chose to use the green color for the Bucks (which is their main official color) in my visualizations and grey for all other teams to better shown what I am trying to communicate. The decision to compare the Bucks with teams that managed to win their first playoff series in the last decade stems from the fact that Bucks have the longest [NBA playoffs series win droughts](https://en.wikipedia.org/wiki/List_of_NBA_franchise_post-season_droughts) than any other team in the NBA.  I also decided to split the analysis in two main categories: offense and defense team statistics, to make the story flow more naturally for the reader.  When I found a statistic category were the Bucks were way better or worse off than the average of all selected teams, I further included player stats with interactive options to enrich the analysis, after the feedback I received in my initial version of my story. Furtermore, based on the feedback, I used the point differential stat to conclude if the Bucks are on par with the other teams and I also shorten my text boxes descriptions. As a final note, the team average statistics presented don't include the Bucks stats because the concept of the story is to compare the Bucks with the other 20 teams in the dataset.
 
 ## Feedback
 
