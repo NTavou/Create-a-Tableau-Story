@@ -1,6 +1,6 @@
 # Create-a-Tableau-Story
 
-Fist version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Mil_draft/MIL_v1
+First version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Mil_draft/MIL_v1
 
 ## Summary
 
