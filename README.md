@@ -1,6 +1,7 @@
 # Create-a-Tableau-Story
 
-First version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Mil_draft/MIL_v1
+First version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Mil_draft/MIL_v1  
+
 Final version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Milwakee_Bucks_201718/Milwakee_Bucks_20172018
 
 ## Summary
