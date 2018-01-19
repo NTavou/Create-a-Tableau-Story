@@ -4,7 +4,7 @@ First version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/
 
 ## Summary
 
-In this tableau story I compared the team and players basic regular season statistics of the Milwakee Bucks 2017/2018 team with these of NBA teams in the Eastern Conference that managed to win their first round playoff series in the last decade. The main goal of this data story was to see if the Bucks team is on par with these teams across the selected statitical categories.
+In this tableau story I compared team and players basic regular season statistics of the Milwakee Bucks 2017/2018 team with these of NBA teams in the Eastern Conference that managed to win their first round playoff series in the last decade. I included in my analysis teams that were placed between the 3rd and the 6th position in the regular season (which I expect that the Bucks will end up this season). The main goal of this data story was to see if the Bucks team is on par with these teams across the selected statitical categories.
 
 ## Design
 
