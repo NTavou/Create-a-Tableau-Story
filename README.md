@@ -1,4 +1,4 @@
-# Milwaukee Bucks 17/18 Tableau_Story
+# Milwaukee Bucks 17/18 Tableau Story
 
 First version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Mil_draft/MIL_v1  
 
