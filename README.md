@@ -1,5 +1,7 @@
 # Milwaukee Bucks 17/18 Tableau Story
 
+![Bucks photo](https://imagesvc.timeincapp.com/v3/fan/image?url=https://hoopshabit.com/wp-content/uploads/getty-images/2017/09/625071672-orlando-magic-v-milwaukee-bucks.jpg.jpg&)
+
 First version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Mil_draft/MIL_v1  
 
 Final version of the story: https://public.tableau.com/profile/ntavou#!/vizhome/Milwakee_Bucks_201718/Milwakee_Bucks_20172018
