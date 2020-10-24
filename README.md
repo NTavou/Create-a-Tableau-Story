@@ -18,4 +18,6 @@ All data were downloaded from Basketball Reference website: https://www.basketba
 
 Wikipedia article on "List of NBA franchise post-season droughts": https://en.wikipedia.org/wiki/List_of_NBA_franchise_post-season_droughts
 
+This project was part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/).
+
 
