@@ -2,7 +2,7 @@
 
 ![Bucks photo](https://imagesvc.timeincapp.com/v3/fan/image?url=https://hoopshabit.com/wp-content/uploads/getty-images/2017/09/625071672-orlando-magic-v-milwaukee-bucks.jpg.jpg&)
 
-Tableau link: https://public.tableau.com/profile/ntavou#!/vizhome/Milwakee_Bucks_201718/Milwakee_Bucks_20172018
+Tableau link: [click here](https://public.tableau.com/profile/ntavou#!/vizhome/Milwakee_Bucks_201718/Milwakee_Bucks_20172018)
 
 ## Summary
 
